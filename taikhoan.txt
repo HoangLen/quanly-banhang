@@ -1,0 +1,11 @@
+- Quyền Admin: 
+	Email: lnhchau@gmail.com
+	Mật khẩu: lnhchau
+- Quyền nhân viên:
+	1.	Email: lhlen@gmail.com
+		Mật khẩu: lhlen
+	2.	Email: quaynuoc@gmail.com
+		Mật khẩu: quaynuoc
+- Quyền Khách:
+	Email: qwe@gmail.com
+	Mật khẩu: qwe
